@@ -22,12 +22,22 @@
                  <div class="row">
                      <?php
                                 $eskul = [
-                                    ["nama" => "PASKIBRA", "gambar" => "image/paskib.jpg"],
-                                    ["nama" => "PRAMUKA", "gambar" => "image/pramuka.jpg"],
-                                    ["nama" => "PMR", "gambar" => "image/pmr.jpg"],
-                                    ["nama" => "PLH", "gambar" => "image/plh.jpg"],
-                                    ["nama" => "IT CLUB", "gambar" => "image/itclub.jpg"],
-                                    ["nama" => "PKS", "gambar" => "image/pks.jpg"],
+                                ["nama" => "PASKIBRA", "gambar" => "image/paskib.jpg"],
+                                ["nama" => "PRAMUKA", "gambar" => "image/pramuka.jpg"],
+                                ["nama" => "PMR", "gambar" => "image/pmr.jpg"],
+                                ["nama" => "PLH", "gambar" => "image/plh.jpg"],
+                                ["nama" => "IT CLUB", "gambar" => "image/itclub.jpg"],
+                                ["nama" => "PKS", "gambar" => "image/pks.jpg"],
+                                ["nama" => "PERISAI DIRI", "gambar" => "image/pd.jpg"],
+                                ["nama" => "ENGLISH CLUB", "gambar" => "image/english.jpg"],
+                                ["nama" => "CINEMATOGRAPHY", "gambar" => "image/cinema.jpg"],
+                                ["nama" => "LASKAR PUSTAKA", "gambar" => "image/laskar.jpg"],
+                                ["nama" => "IRMA", "gambar" => "image/irma.jpg"],
+                                ["nama" => "BULU TANGKIS", "gambar" => "image/pb.jpg"],
+                                ["nama" => "FUTSAL", "gambar" => "image/futsal.jpg"],
+                                ["nama" => "BASKET", "gambar" => "image/basket.jpg"],
+                                ["nama" => "VOLLY", "gambar" => "image/volly.jpg"],
+                                ["nama" => "SEPAK BOLA", "gambar" => "image/bola.jpg"],
                                 ];
 
                                 foreach ($eskul as $item) { ?>

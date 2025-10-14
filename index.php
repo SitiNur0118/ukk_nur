@@ -57,11 +57,11 @@
 
 
 <!-- BERITA -->
-   <div class="container mt-5 my-5">
-         <div class="roow">
+   <div class="container p-5 mt-5 my-5">
+         <div class="row">
              <div class="col-lg-12">
                  <h3 class="mb-0">Berita</h3>
-                 <h3 class="text-primary">Terkinni</h3>
+                 <h3 class="text-primary">Terkini</h3>
                  <p>Berita terbaru, cerita inspiratif dan informasi terkini seputar kegiatan serta prestasi sekolah kami.</p>
                  <div class="row">
                      <div class="col-lg-4">
@@ -116,7 +116,7 @@
  ];
  $i = 0;
  ?>
- <div class="container p-4 mt-4 my-4">
+ <div class="container p-3 mt-3 my-3">
             <h3 class="mb-0 my-5 ">Galeri</h3>
             <h3 class="text-primary">Sekolah</h3>
             <div class="row">
@@ -134,6 +134,9 @@
                         </div>
                     </div>
                 </div>
+            </div>
+            <div class="container p-3 my-3">
+                 <a class="btn btn-primary" href="galeri.php">intip lainya</a>
             </div>
  <!-- TUTUP GALERI -->
 
