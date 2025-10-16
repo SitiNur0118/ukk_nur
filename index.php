@@ -13,8 +13,26 @@
     
  <?php include 'navbar.php'; ?>
 
+<!-- CAROUSEL -->
+ <!-- CAROUSEL -->
+<div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="image/smk4.jpg" class="d-block w-100" alt="" width="800" height="800">
+      <div class="carousel-caption d-flex h-100 align-items-center justify-content-center">
+        <h2 class="text-white fw-bold fs-1 text-shadow bg-dark bg-opacity-75 px-4 py-3 rounded">
+          SELAMAT DATANG DI WEBSITE SMKN 4 TASIKMALAYA
+        </h2>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- TUTUP CAROUSEL -->
+
+<!-- TUTUP CAROUSEL -->
+
 <!-- STATISTIK -->
-    <div class="row m-5">
+    <div class="row m-4">
         <div class="row text-center g-3 ">
             <div class="col-md-3">
                 <div class="card text-white h-100 bg-primary">
